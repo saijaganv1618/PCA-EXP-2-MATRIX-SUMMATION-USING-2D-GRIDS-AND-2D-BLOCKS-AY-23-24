@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>Name : Easwar J</h3>
-<h3>Reg No : 212221230024</h3>
+<h3>Name : Jagan a</h3>
+<h3>Reg No : 212221230037</h3>
 <h3>EX. NO : 2</h3>
 <h3>DATE : 6.03.2024</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS</h1>
